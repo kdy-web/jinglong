@@ -1,0 +1,2 @@
+webpackJsonp([31],{gPeR:function(t,e){},jJDk:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("div",{staticClass:"g-bannerImg"},[e("img",{attrs:{src:n("Yaqb"),alt:""}})])])}]};var s=n("VU/8")({data:function(){return{}},methods:{}},r,!1,function(t){n("gPeR")},"data-v-1664d9ec",null);e.default=s.exports}});
+//# sourceMappingURL=31.647b07173b458298c133.js.map
